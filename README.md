@@ -7,7 +7,7 @@ Usage: ./decompile.sh <java_class_path_dir>
 
 Future Realeases:
 
-- Add usage helper and args validation
+- Add helper and args validation
 - Add log functionality
 
 Thanks ;)
